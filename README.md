@@ -1,5 +1,5 @@
 
-# Bitcoin Wallet CLI Tool
+# Cypherock Nodejs CLI Tool Task
 
 This CLI tool is designed to manage Bitcoin wallets on the testnet, providing functionalities such as creating and importing wallets using BIP39 mnemonics, listing all managed wallets, fetching wallet balances, listing transactions, and generating new addresses.
 
